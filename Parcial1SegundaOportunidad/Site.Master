@@ -40,7 +40,7 @@
 
                         <a class="dropdown-toggle" data-toggle="dropdown" style="font-family: Arial; font-size: 16px">Registros<span class="caret"></span></a>
                         <ul class="dropdown-menu" style="font-family: Arial; font-size: 16px">
-                            <li><a href="/UI/Registros/RegistroFactura.aspx">Factura</a></li>                      
+                            <li><a href="/UI/RegistroFactura.aspx">Factura</a></li>                      
                         </ul>
                     </li>
                     <li class="dropdown">
